@@ -66,15 +66,15 @@ _footer: Credit https://ruwix.com/the-rubiks-cube/rubiks-cube-memes/rubiks-cube-
 
 # Fun Facts
 
-* Erno Rubik 
-  * Born in Budapest, Hungary during WWII
-  * Studied sculpture in college
-* Any cube can be solved in at least 20 moves
-* 43 quintillion possible configurations
-  * 43,252,003,274,489,856,000
-  * 1 sec for each turn => 1400 trillion years
-* 3x3 is typical size
-  * 2x2, 4x4, 5x5 and beyond sizes
+- Erno Rubik 
+  - Born in Budapest, Hungary during WWII
+  - Studied sculpture in college
+- Any cube can be solved in at least 20 moves
+- 43 quintillion possible configurations
+  - 43,252,003,274,489,856,000
+  - 1 sec for each turn => 1400 trillion years
+- 3x3 is typical size
+  - 2x2, 4x4, 5x5 and beyond sizes
 
 ![bg right:40% w:500](img/erno-rubik.jpeg)
 
@@ -86,13 +86,13 @@ _footer: Credit https://www.theguardian.com/books/2020/sep/13/erno-rubik-the-cub
 
 # Pieces
 
-* centers (6 - immutable)
-  * Reverse shell
-  * White <-> Yellow
-  * Blue <-> Green
-  * Orange <-> Red
-* corners (8)
-* edges (12)
+- centers (6 - immutable)
+  - Reverse shell
+  - White <-> Yellow
+  - Blue <-> Green
+  - Orange <-> Red
+- corners (8)
+- edges (12)
 
 ![bg right:50% w:600](img/pieces.webp)
 
@@ -100,12 +100,12 @@ _footer: Credit https://www.theguardian.com/books/2020/sep/13/erno-rubik-the-cub
 
 # Faces
 
-* Up
-* Down
-* Left
-* Right
-* Front
-* Back
+- Up
+- Down
+- Left
+- Right
+- Front
+- Back
 
 R = Clockwise
 R' = Counter Clockwise
@@ -121,17 +121,17 @@ _footer: Credit https://mzrg.com/rubik/mech.shtml
 # Notation 
 
 ### Screwtop
-* Up + Up' (U + U')
-* Down + Down' (D + D')
+- Up + Up' (U + U')
+- Down + Down' (D + D')
 
 ### Ferris Wheel
 
-* Right + Right' (R + R')
-* Left + Left' (L + L')
+- Right + Right' (R + R')
+- Left + Left' (L + L')
 
 ### Door Knob
-* Front + Front' (F + F')
-* Back + Back' (B + B')
+- Front + Front' (F + F')
+- Back + Back' (B + B')
 
 ![bg right:50% w:600](img/notations.webp)
 
@@ -139,9 +139,9 @@ _footer: Credit https://mzrg.com/rubik/mech.shtml
 
 # Algorithm
 
-* D2 = (Perform Down twice)
-* Multiple possible algos.  Will focus on beginners
-* R U R' U'  -->
+- D2 = (Perform Down twice)
+- Multiple possible algos.  Will focus on beginners
+- R U R' U'  -->
 
 ![bg right:50% w:600](img/rotate.webp)
 
@@ -152,9 +152,9 @@ _footer: Credit https://www.cubelelo.com/blogs/cubing/how-to-solve-rubiks-cube
 
 # Phases
 
-* Solve First Layer
-* Solve Middle Layer
-* Solve Final Layer
+- Solve First Layer
+- Solve Middle Layer
+- Solve Final Layer
 
 ![bg right:50% w:600](img/solve-phases.jpg)
 
@@ -213,20 +213,20 @@ _footer: Credit https://www.learnhowtosolvearubikscube.com/how-to-solve-a-rubiks
 
 # Practice
 
-* Chinese cubes are the best! (and cheapest)
-  * Original Rubik's Cube are too stiff
-  * Example: https://amzn.to/43G30rj (Amazon associate link)
-  * 2x, 3x, 4x, 5x, Combo: https://amzn.to/4kjLlfZ 
-* https://www.rubiks.com/solution-guides
-  * YouTube videos (3m vids of each step) + PDF's
-* MANY solutions out there
-  * I learned: https://ruwix.com/the-rubiks-cube/how-to-solve-the-rubiks-cube-beginners-method/
+- Chinese cubes are the best! (and cheapest)
+  - Original Rubik's Cube are too stiff
+  - Example: https://amzn.to/43G30rj (Amazon associate link)
+  - 2x, 3x, 4x, 5x, Combo: https://amzn.to/4kjLlfZ 
+- https://www.rubiks.com/solution-guides
+  - YouTube videos (3m vids of each step) + PDF's
+- MANY solutions out there
+  - I learned: https://ruwix.com/the-rubiks-cube/how-to-solve-the-rubiks-cube-beginners-method/
 
 ---
 # Credit
 
-* https://medium.com/swlh/how-i-learned-to-solve-the-rubiks-cube-in-30-seconds-afff9292b030
-* https://how-to-solve-a-rubix-cube.com/
-* https://www.cubelelo.com/blogs/cubing/how-to-solve-rubiks-cube
-* https://www.learnhowtosolvearubikscube.com/how-to-solve-a-rubiks-cube-solution-overview
-* https://www.reddit.com/r/Cubers/
+- https://medium.com/swlh/how-i-learned-to-solve-the-rubiks-cube-in-30-seconds-afff9292b030
+- https://how-to-solve-a-rubix-cube.com/
+- https://www.cubelelo.com/blogs/cubing/how-to-solve-rubiks-cube
+- https://www.learnhowtosolvearubikscube.com/how-to-solve-a-rubiks-cube-solution-overview
+- https://www.reddit.com/r/Cubers/
