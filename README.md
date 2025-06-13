@@ -12,7 +12,9 @@ _header: ![]()
 
 # &nbsp;
 # How to solve a Rubik's Cube
-
+##### (or how to seem smarter than you really are)
+#
+#
 ### Presented by: Tommy Falgout 
 
 ---
@@ -217,6 +219,8 @@ _footer: Credit https://www.learnhowtosolvearubikscube.com/how-to-solve-a-rubiks
   * 2x, 3x, 4x, 5x, Combo: https://amzn.to/4kjLlfZ 
 * https://www.rubiks.com/solution-guides
   * YouTube videos (3m vids of each step) + PDF's
+* MANY solutions out there
+  * I learned: https://ruwix.com/the-rubiks-cube/how-to-solve-the-rubiks-cube-beginners-method/
 
 ---
 # Credit
