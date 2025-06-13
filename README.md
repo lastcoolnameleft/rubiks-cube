@@ -230,3 +230,18 @@ _footer: Credit https://www.learnhowtosolvearubikscube.com/how-to-solve-a-rubiks
 - https://www.cubelelo.com/blogs/cubing/how-to-solve-rubiks-cube
 - https://www.learnhowtosolvearubikscube.com/how-to-solve-a-rubiks-cube-solution-overview
 - https://www.reddit.com/r/Cubers/
+
+---
+
+<!--
+_class: intro-blue
+_header: ![]()
+-->
+
+#  Happy Cubing!
+
+![bg right:45% w:500](img/existential-cube.jpg)
+
+<!--
+_footer: Credit https://mitadmissions.org/blogs/entry/existential-cubes/
+-->
